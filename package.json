@@ -1,0 +1,21 @@
+{
+  "name": "se-mi-novia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./scss/styles.scss ./css/styles.css",
+    "ts": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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:x-oauth-basic@github.com/ESaulDJLaguna/se-mi-novia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ESaulDJLaguna/se-mi-novia/issues"
+  },
+  "homepage": "https://github.com/ESaulDJLaguna/se-mi-novia#readme"
+}
