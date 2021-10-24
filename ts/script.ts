@@ -29,5 +29,5 @@ function mover(): void {
 
 function muestraTarjeta(): void {
   let tarjeta = document.getElementById("msg-container");
-  tarjeta.style.display = "grid";
+  tarjeta!.style.display = "grid";
 }
