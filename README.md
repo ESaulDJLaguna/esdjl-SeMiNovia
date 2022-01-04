@@ -6,7 +6,7 @@ La finalidad del proyecto fue crear algo sencillo para comenzar a familiarizarme
 
 ### Resultado final del proyecto
 
-https://se-mi-novia.netlify.app/
+https://esdjl-se-mi-novia.netlify.app/
 
 ## Tecnologías utilizadas
 
@@ -19,11 +19,11 @@ https://se-mi-novia.netlify.app/
 1. Clonar el repositorio y accede a la carpeta generada:
 
 ```
-git clone https://github.com/ESaulDJLaguna/se-mi-novia.git
+git clone https://github.com/ESaulDJLaguna/esdjl-SeMiNovia.git
 ```
 
 ```
-cd se-mi-novia/
+cd esdjl-SeMiNovia/
 ```
 
 2. Instala las dependencias. El siguiente comando generará la carpeta _node_modules_:
